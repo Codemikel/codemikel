@@ -1,7 +1,6 @@
-### Hi there 👋 I'm Miguel Ruiz 👨‍💻
+# Hi there 👋 I'm Miguel Ruiz 👨‍💻
 
-I'm fullstack dev. 
-I love work with Laravel, Vue.js and SQL.
+I'm currently working on web development. My favorite language is PHP mostly work with Laravel framework using Vue.js as frontend technology.
 
 ### About Me
 
@@ -11,14 +10,28 @@ I'm from:
 Languages:
 💬 Spanish & English.
 
-### My Stack
-< hr />
+## My Stack
+
 
 ### Languages
-PHP CSS3 HTML5 Dart JavaScript SQL Go
+- PHP 
+- CSS3 
+- HTML5 
+- Dart 
+- JavaScript 
+- SQL 
+- Go
 
 ### Technologies
-Laravel Flutter Vue.js TailwindCSS BootstrapCSS Symfony Drupal MySQL MariaDB
+- Laravel 
+- Flutter 
+- Vue.js 
+- TailwindCSS 
+- BootstrapCSS 
+- Symfony 
+- Drupal 
+- MySQL 
+- MariaDB
 
 ### Tools and others
 
