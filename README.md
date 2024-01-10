@@ -2,3 +2,7 @@
 
 I'm fullstack dev. 
 I love work with Laravel, Vue.js and SQL.
+
+### ABOUT ME
+
+🌎 Bogotá, Colombia.
